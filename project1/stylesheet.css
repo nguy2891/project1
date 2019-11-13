@@ -1,0 +1,217 @@
+
+html {scroll-behavior: smooth}
+
+.logo {width: 100%;
+    margin: 0 auto;
+    text-align: center;}
+
+
+.menu{
+width: 1170px;
+margin-left: 100px}
+
+
+.menu, li, ul, a {color: white; font-size: 20px; text-transform: uppercase;
+text-decoration: none; display: block; padding: 10px 20px; text-align: center; margin: auto;
+font-family: Arial; text-shadow: 2px 2px 4px #000000}
+
+
+.active1, .active2 { float: left}
+
+
+.active3, .active4 {float: right}
+
+ul {margin-top: -130px}
+
+.text{margin-top: 330px; font-size: 50px; font-family: Arial;text-shadow: 2px 2px 4px #000000;}
+
+#aboutus, li:hover {width: auto ;border-bottom: white solid;
+ }
+
+#gallery, li:hover {width: auto ;border-bottom: white solid;
+     }
+
+
+#order, li:hover {width: auto ;border-bottom: white solid;
+    }
+
+#contactus, li:hover {width: auto ;border-bottom: white solid;
+}
+
+#aboutus,#contactus, #order, #gallery {
+    position: center}
+
+
+
+.squaretext{position: relative}
+
+/*.box{ width: 370px;
+    height: 350px;
+    background-color: black;
+    position: center; alignment: center;
+    margin-top: 215px;
+    margin-left: 664px;
+
+    ;opacity: 0.3;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.6);
+}*/
+
+.aboutheader { font-size: 60px;
+    text-align: center;
+    width: 700px;text-shadow: 2px 2px 4px #000000;
+margin-top: 165px;
+    margin-left: 245px;
+    left: 0;
+    top:50%; position: absolute}
+
+.paragraph {color: white; position: absolute; left: 0;
+    top:50%;
+    text-align: justify;width: 401px;
+    height: 500px;
+    margin-top: 350px;
+    margin-left: 385px;text-transform: none; line-height: 1.5}
+
+.header {font-size: 60px;
+    text-align: center;
+    width: 500px;
+    padding-top: 131px;
+   ;margin-left: 323px;
+font-family: Arial;
+    color: white;text-shadow: 2px 2px 4px #000000;}
+
+.map{ margin-top: 5px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.6);}
+
+.hour { width: 360px;
+height: 40px;
+color: white;
+margin-top: 55px;
+margin-left: 110px;
+font-family: Arial;
+font-size: 19px; text-align: left;
+top: 100%;text-shadow: 2px 2px 4px #000000;}
+
+.p1 {text-decoration: underline white solid;text-shadow: 2px 2px 4px #000000;}
+.p2 {text-transform: none;text-shadow: 2px 2px 4px #000000;}
+
+.phone { margin-top: 40px;
+width: 200px;text-shadow: 2px 2px 4px #000000;}
+
+.email {margin-top: 40px;
+width: 200px;text-shadow: 2px 2px 4px #000000;}
+
+
+.address{
+    width: 300px;
+    height: 40px;
+    color: white;
+    margin-top: -63px;
+    margin-left: 570px;
+    font-family: Arial;
+    font-size: 19px; text-align: left; text-shadow: 2px 2px 4px #000000;
+}
+
+
+.orderform{
+    width: 1160px;
+    height: 700px;
+    background-color: white;
+    opacity: 0.4;
+    margin-top: 90px;
+}
+
+.OF {;
+height: 30px;
+    color: white;
+    font-size: 60px; text-align: center;
+    width: 500px;
+    padding-top: 131px;
+;margin-left: 323px;
+    font-family: Arial; text-shadow: 2px 2px 4px #000000;
+}
+
+.container
+{
+margin-top: 70px;
+}
+
+input[type=text], select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;opacity: 0.9;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4)
+}
+ select {height: 45px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4)}
+
+label {text-align: left;
+alignment: left;
+margin-top: 80px}
+
+input[type=submit] {
+    width: 50%;
+    background-color: white;
+    color: black;
+    padding: 24px 20px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;opacity: 0.9;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4)
+}
+
+input[type=submit]:hover {
+    opacity: 0.6;
+}
+
+
+.comment {height: 200px}
+
+
+.gallerytd {padding-left: 50px;}
+
+.gallarytable{ margin-top: -20px;
+margin-left: 120px}
+
+.galleryfont {font-size: 40px; text-align: center; font-family: Arial}
+
+.galleryfont2 {font-size: 20px; text-align: center; font-family: Arial;text-shadow: 2px 2px 4px #000000;}
+
+.galleryheader{font-size: 60px;
+    text-align: center;
+    width: 500px;
+    padding-top: -45px;
+;margin-left: 323px;
+    font-family: Arial;
+    color: white;text-shadow: 2px 2px 4px #000000;
+margin-top: -20px}
+
+.row { display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: 0 4px; margin-top: 40px;
+}
+
+.column1 { -ms-flex: 25%;
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;margin-left: -45px;
+}
+
+.column2 { -ms-flex: 25%;
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;margin-left: 125px}
+
+.column3 { -ms-flex: 25%;
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+margin-left: 127px}
+
+.imagespace {box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.8);}
+.imagespace2 {margin-top: 15px;box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.8);}
+
+.scroll{
+    font-family: Arial;text-shadow: 2px 2px 4px #000000
+}
